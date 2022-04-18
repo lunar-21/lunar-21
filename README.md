@@ -1,5 +1,4 @@
 # 👋 Hi, I’m @lunar-21
-![image](https://avatars.githubusercontent.com/u/103962677?s=400&u=8ea31f5b6aa5b75df707d6c6d1e02825af3bc4e9&v=4)
 
 - 🐍 Hobby Python developer since 2020
 - ☕ I’m currently learning Java
